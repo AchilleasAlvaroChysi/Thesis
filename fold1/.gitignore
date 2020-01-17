@@ -2,3 +2,5 @@
 *.zip
 *.txt
 __pycach.*
+DATASET F1/
+media/
