@@ -1,0 +1,10 @@
+*.png
+*.zip
+*.txt
+__pycach.*
+__pycache__/
+DATASET F1/
+media/
+latex/
+no\ lambda/
+.ipynb_checkpoints/
